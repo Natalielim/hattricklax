@@ -65,7 +65,7 @@ footer {
   color: white;
   text-align: center;
   padding: 10em;
-  background-color: #592152;
+  background: linear-gradient(to bottom, #592152 0%, #DACEE2 150%);
   width: 110vw;
   min-height: 590px;
   min-width: 101vw;
@@ -90,5 +90,5 @@ footer {
 }
 
 #deadlines, footer {
-  background-color: #D5A6BD;
+  background-color: #DACEE2;
 }
