@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  font: 14px "HelveticaNeue"!important;
+  font-family: 'Roboto Condensed'!important, sans-serif!important;
   display: flex;
   flex-direction: column;
   flex: 1 0 auto;
@@ -89,6 +89,6 @@ footer {
   margin: 1em!important;
 }
 
-#schedule {
+#deadlines, footer {
   background-color: #D5A6BD;
 }
